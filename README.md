@@ -47,7 +47,8 @@ Through this experiment, we gained the insight that in certain situations, it ma
 > 입력층: 784개 노드   
 > 은닉층 1: 300개 노드 (ReLU 활성화 함수)   
 > 은닉층 2: 100개 노드 (ReLU 활성화 함수)   
-> 출력층: 10개 노드 (Softmax 활성화 함수)    
+> 출력층: 10개 노드 (Softmax 활성화 함수)   
+   
 학습 파라미터:   
 > 옵티마이저: Adam   
 > 손실함수: Sparse Categorical Crossentropy   
